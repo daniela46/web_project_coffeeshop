@@ -10,6 +10,7 @@
   background-size: cover;
   background-position: center;
   background-color: #d9e7ff;
+  z-index: 3;
 }
 
 .reservation__title {

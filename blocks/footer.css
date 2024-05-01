@@ -2,6 +2,7 @@
   box-sizing: border-box;
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
   padding: 60px 80px;
+  overflow: hidden;
   position: relative;
 }
 
@@ -13,6 +14,7 @@
 .footer__logo {
   height: 39px;
   width: 105px;
+  z-index: 2;
 }
 
 .footer__circle {
@@ -23,7 +25,7 @@
   background-color: #2f80ed;
   left: -44px;
   top: -128px;
-  z-index: -1; /* Ajusta según sea necesario para organizar correctamente los elementos */
+  z-index: 1;
 }
 
 .footer__list {
