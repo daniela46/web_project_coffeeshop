@@ -232,6 +232,10 @@
   line-height: 52px;
 }
 
+.reservation__form {
+  margin-bottom: 80px;
+}
+
 .form {
   display: flex;
   flex-direction: column;
