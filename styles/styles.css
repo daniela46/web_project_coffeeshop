@@ -96,10 +96,6 @@
   padding: 0;
 }
 
-.header__address {
-  margin-top: auto;
-}
-
 .nav {
   display: flex;
   justify-content: space-between;
